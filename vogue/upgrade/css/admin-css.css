@@ -17,18 +17,18 @@
 }
 
 .premium-link {
-     color: #b17b39;
-     font-weight: 400;
-     display: block;
+    /* color: #f18500; */
+    font-weight: 400;
+    display: block;
 }
 .premium-link:hover {
-    color: #b17b39;
+    /*color: #E46100;*/
 }
 #adminmenu .wp-submenu li.current a .premium-link {
-	color: #b17b39 !important;
+	/*color: #f18500 !important;*/
     font-weight: 700;
 }
 .kaira-theme-upgrade {
-	color: #b17b39;
-    font-size: 1.2em;
+	/*color: #E46100;
+    font-size: 1.2em;*/
 }

@@ -43,14 +43,6 @@ function customizer_library_vogue_options() {
 		'type'    => 'checkbox',
 		'default' => 0,
 	);
-    $options['vogue-titlebar-centered'] = array(
-        'id' => 'vogue-titlebar-centered',
-        'label'   => __( 'Center Align Page Titles', 'vogue' ),
-        'section' => $section,
-        'type'    => 'checkbox',
-        'description' => __( 'Select this box to change the page titles to have a centered layout', 'vogue' ),
-        'default' => 0,
-    );
 	
 	$options['vogue-header-menu-text'] = array(
 		'id' => 'vogue-header-menu-text',
@@ -174,14 +166,6 @@ function customizer_library_vogue_options() {
 		'title' => __( 'Font Options', 'vogue' ),
 		'priority' => '80'
 	);
-    
-    $options['vogue-upsell-typography'] = array(
-        'id' => 'vogue-upsell-typography',
-        'label'   => __( '', 'vogue' ),
-        'section' => $section,
-        'type'    => 'upsell',
-        'description' => __( 'Premium now includes extra customize settings for the site title and tagline', 'vogue' ),
-    );
 
 	$options['vogue-body-font'] = array(
 		'id' => 'vogue-body-font',
@@ -226,10 +210,10 @@ function customizer_library_vogue_options() {
     );
     
     $choices = array(
-        'blog-left-layout' => __( 'Left Layout', 'vogue' ),
-        'blog-right-layout' => __( 'Right Layout', 'vogue' ),
-        'blog-top-layout' => __( 'Top Layout', 'vogue' ),
-        'blog-alt-layout' => __( 'Alternate Layout', 'vogue' )
+        'blog-left-layout' => 'Left Layout',
+        'blog-right-layout' => 'Right Layout',
+        'blog-top-layout' => 'Top Layout',
+        'blog-alt-layout' => 'Alternate Layout',
     );
     $options['vogue-blog-layout'] = array(
         'id' => 'vogue-blog-layout',
@@ -237,7 +221,7 @@ function customizer_library_vogue_options() {
         'section' => $section,
         'type'    => 'select',
         'choices' => $choices,
-        'description' => __( 'This uses the "Large Size" image cut<br /><br />Grid Layout available in Premium', 'vogue' ),
+        'description' => __( 'This uses the "Large Size" image cut', 'vogue' ),
         'default' => 'blog-left-layout'
     );
     $options['vogue-blog-title'] = array(

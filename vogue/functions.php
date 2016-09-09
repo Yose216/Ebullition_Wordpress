@@ -4,8 +4,7 @@
  *
  * @package Vogue
  */
-
-define( 'VOGUE_THEME_VERSION' , '1.2.00' );
+define( 'VOGUE_THEME_VERSION' , '1.1.3' );
 
 // Get help / Premium Page
 require get_template_directory() . '/upgrade/upgrade.php';
@@ -98,7 +97,7 @@ function vogue_setup() {
         'default-image' => '',
 		'width'         => 280,
 		'height'        => 145,
-		'flex-width'    => true,
+		'flex-width'    => false,
 		'flex-height'   => true,
 		'header-text'   => false,
 	) );
@@ -260,7 +259,7 @@ add_filter( 'widget_categories_args', 'vogue_exclude_slider_categories_widget' )
 function vogue_add_blog_post_classes ( $classes ) {
 	global $current_class;
 	
-	if ( is_home() || is_archive() || is_search() ) :
+	if ( is_home() ) :
 		$vogue_blog_layout = sanitize_html_class( 'blog-left-layout' );
 		if ( get_theme_mod( 'vogue-blog-layout' ) ) {
 		    $vogue_blog_layout = sanitize_html_class( get_theme_mod( 'vogue-blog-layout' ) );
