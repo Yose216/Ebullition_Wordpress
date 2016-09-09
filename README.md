@@ -1,7 +1,7 @@
 # Site Ebullition en wordpress
-Le projet professionel de la marque Ebullition fait en wordpress
+Le projet professionel de la marque Ebullition réaliser en wordpress
 
-## Les personnes qui ont participe : 
+## Les personnes qui ont participées : 
 Ghaffar, Carole, Annie-line, Hassan, Latifa et Youness
 
 ### Theme Wordpress
