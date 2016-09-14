@@ -6,22 +6,16 @@ Vogue - Header Standard Styling
     margin: 0;
     padding: 0 0 12px;
     font-size: 72px;
-<<<<<<< HEAD
-    line-height: 64px;
-=======
+
     line-height: 1.2em;
->>>>>>> f3970a401205564029e625d23ef2e1faf09f72d4
     font-weight: 300;
 }
 .site-description {
     margin: 0;
     padding: 0 0 14px;
     font-size: 13px;
-<<<<<<< HEAD
-    line-height: 16px;
-=======
+
     line-height: 1.2em;
->>>>>>> f3970a401205564029e625d23ef2e1faf09f72d4
     font-weight: 300;
     text-transform: uppercase;
     color: inherit;
@@ -57,11 +51,7 @@ a.header-cart-contents {
 .menu-search {
     display: inline-block;
     margin: 0 0 0 5px;
-<<<<<<< HEAD
-    vertical-align: middle;
-=======
     vertical-align: bottom;
->>>>>>> f3970a401205564029e625d23ef2e1faf09f72d4
     font-size: 15px;
 }
 .search-btn {
@@ -240,11 +230,8 @@ a.header-cart-contents {
         text-align: center;
     }
     .site-topbar-left {
-<<<<<<< HEAD
-        
-=======
+
         padding: 2px 0 2px;
->>>>>>> f3970a401205564029e625d23ef2e1faf09f72d4
     }
     .site-topbar-left .menu {
         display: inline-block;
@@ -288,11 +275,7 @@ a.header-cart-contents {
     }
     .site-description {
         font-size: 12px;
-<<<<<<< HEAD
-        padding: 0 0 5px;
-=======
         padding: 0 0 8px;
->>>>>>> f3970a401205564029e625d23ef2e1faf09f72d4
     }
     
     .header-cart {

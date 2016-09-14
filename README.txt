@@ -9,11 +9,9 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-<<<<<<< HEAD
-Vogue is a very simple to use and quick to setup responsive multipurpose WordPress theme. Vogue offers 4 blog layouts, 2 footer layouts, custom styled WooCommerce pages and lots more settings. Integrating nicely with SiteOrigin's Page Builder, SiteOrigin's Widgets Bundle, WooCommerce and more great plugins, Vogue is scalable to build any site you need from a simple blog site to a portfolio site to a fully functional online WooCommerce store. Using SiteOrigin's drag and drop Page Builder you are able to build any detailed page layouts you may need, along with the page templates we offer. Vogue is the perfect theme for your next WordPress / WooCommerce project. Give it a go! and let us know which features you'l like added!
-=======
+
 Vogue is a very simple to use and quick to setup responsive multipurpose WordPress theme. Integrating nicely with SiteOrigin's Page Builder, SiteOrigin's Widgets Bundle, WooCommerce and more great plugins, Vogue is scalable to build any site you need from a simple blog site with 4 different blog layouts to a portfolio site to a fully functional online WooCommerce store. Using SiteOrigin's drag and drop Page Builder you are able to build any detailed page layouts you may need, along with the page templates we offer. Vogue is the perfect theme for your next WordPress / WooCommerce project. Vogue also includes custom styling for WooCommerce and BuddyPress and there's more coming. Give it a go! and let us know which features you'd like added!
->>>>>>> f3970a401205564029e625d23ef2e1faf09f72d4
+
 
 == License ==
 
@@ -71,8 +69,7 @@ View the theme settings under "Appearance" -> Customize.
 
 == Changelog ==
 
-<<<<<<< HEAD
-=======
+
 #### 1.2.00
 * CSS fix for sidebar Pages & Custom Menu widgets styling
 * Fixed strings missing translation functions
@@ -117,7 +114,7 @@ Premium: Added setting - Set site title/tagline spacing
 * Added a setting to center align the page titles
 * Updated language.pot file
 
->>>>>>> f3970a401205564029e625d23ef2e1faf09f72d4
+
 #### 1.1.3
 * Style tweaks
 * Added 4 new blog layouts to choose from
@@ -125,10 +122,7 @@ Premium: Added setting - Set site title/tagline spacing
 * Updated Font Awesome
 * Updated language.pot file
 Premium: Added 5 new social icons
-<<<<<<< HEAD
-* Upgrading to premium will help build this theme into a power theme.
-=======
->>>>>>> f3970a401205564029e625d23ef2e1faf09f72d4
+
 
 #### 1.1.2
 * Added setting to remove header Address

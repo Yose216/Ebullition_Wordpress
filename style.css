@@ -985,10 +985,7 @@ padding: 48px 0 40px 2%;}
 .entry-title {
 	
 }
-<<<<<<< HEAD
 
-=======
->>>>>>> f3970a401205564029e625d23ef2e1faf09f72d4
 .breadcrumbs {
     position: absolute;
 	
@@ -1002,11 +999,7 @@ padding: 48px 0 40px 2%;}
 }
 .breadcrumbs span a {
     color: inherit;
-<<<<<<< HEAD
-	
-}
 
-=======
 }
 
 /* -------- Centered Titlebar -------- */
@@ -1047,7 +1040,6 @@ padding: 48px 0 40px 2%;}
 .woocommerce-page.vogue-shop-archives-full-width.tax-product_cat .title-bar-centered .woocommerce-breadcrumb {
 	padding: 0;
 }
->>>>>>> f3970a401205564029e625d23ef2e1faf09f72d4
 
 /*--------------------------------------------------------------
 # vogue Styling
@@ -1079,19 +1071,14 @@ padding: 48px 0 40px 2%;}
     min-height: 50px;
     padding: 10px 0 0;
     color: #2D2D2D;
-<<<<<<< HEAD
-=======
     line-height: 13px;
->>>>>>> f3970a401205564029e625d23ef2e1faf09f72d4
+
 }
 
 .site-topbar-left {
 	float: left;
-<<<<<<< HEAD
-	padding: 0 0 0 15px;
-=======
 	padding: 6px 0 0 15px;
->>>>>>> f3970a401205564029e625d23ef2e1faf09f72d4
+
 }
 .site-topbar-left ul {
     margin: 0;
@@ -1114,16 +1101,10 @@ padding: 48px 0 40px 2%;}
 }
 .site-topbar-left-ad {
 	display: inline-block;
-<<<<<<< HEAD
-	vertical-align: middle;
-	font-size: 12px;
-	position: relative;
-	top: 2px;
-=======
+
 	vertical-align: bottom;
 	font-size: 12px;
 	position: relative;
->>>>>>> f3970a401205564029e625d23ef2e1faf09f72d4
 }
 .site-topbar-left-ad .fa {
 	margin: 0 3px 0 0;
@@ -1132,33 +1113,24 @@ padding: 48px 0 40px 2%;}
 
 .site-topbar-right {
 	float: right;
-<<<<<<< HEAD
-	padding: 0 15px 0 0;
-=======
+
 	padding: 2px 15px 0 0;
->>>>>>> f3970a401205564029e625d23ef2e1faf09f72d4
+
 }
 .header-social-icon {
     font-size: 18px;
     color: inherit;
     margin: 0 12px 0 0;
     display: inline-block;
-<<<<<<< HEAD
-    vertical-align: middle;
-=======
     vertical-align: bottom;
->>>>>>> f3970a401205564029e625d23ef2e1faf09f72d4
+
 }
 .site-topbar-right-no {
 	font-size: 12px;
 	display: inline-block;
 	vertical-align: bottom;
-<<<<<<< HEAD
-	margin: 0 0 2px;
-=======
 	position: relative;
 	top: -3px;
->>>>>>> f3970a401205564029e625d23ef2e1faf09f72d4
 }
 .site-topbar-right-no .fa {
 	margin: 0 3px 0 0;
@@ -1170,10 +1142,6 @@ padding: 48px 0 40px 2%;}
 .social-linkedin span {
 	font-size: 11px;
 	position: relative;
-<<<<<<< HEAD
-	top: -2px;
-=======
->>>>>>> f3970a401205564029e625d23ef2e1faf09f72d4
 	margin: 0 0 0 10px;
 }
 .footer-social-linkedin span {
@@ -1522,12 +1490,10 @@ padding: 48px 0 40px 2%;}
 	margin: 0 0 5px;
 	font-size: 32px;
 }
-<<<<<<< HEAD
-.post-loop-content .entry-meta {
-=======
+
 .post-loop-content .entry-meta,
 .single .entry-meta {
->>>>>>> f3970a401205564029e625d23ef2e1faf09f72d4
+
     font-style: italic;
     font-size: 0.9em;
     margin: 0 0 5px;
@@ -1535,13 +1501,7 @@ padding: 48px 0 40px 2%;}
 .has-post-thumbnail .post-loop-content .entry-content {
 	min-height: 108px;
 }
-<<<<<<< HEAD
-.post-loop-content .entry-footer {
-    font-style: italic;
-    font-size: 0.9em;
-}
-.post-loop-content .entry-footer > span {
-=======
+
 .post-loop-content .entry-footer,
 .single .entry-footer {
     font-style: italic;
@@ -1549,7 +1509,6 @@ padding: 48px 0 40px 2%;}
 }
 .post-loop-content .entry-footer > span,
 .single .entry-footer > span {
->>>>>>> f3970a401205564029e625d23ef2e1faf09f72d4
     margin: 0 15px 0 0;
 }
 
@@ -1997,8 +1956,7 @@ object {
 
 @media only screen and (max-width: 700px) {
 	
-<<<<<<< HEAD
-=======
+
 	.content-area .entry-header h1.entry-title,
 	.woocommerce h1.page-title,
 	.woocommerce-page h1.page-title {
@@ -2010,7 +1968,7 @@ object {
 		padding: 0 0 8px;
 	}
 	
->>>>>>> f3970a401205564029e625d23ef2e1faf09f72d4
+
 	.home-slider-block {
 		height: 280px;
 	}
