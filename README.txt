@@ -9,7 +9,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Vogue is a very simple to use and quick to setup responsive multipurpose WordPress theme. Vogue offers 4 blog layouts, 2 footer layouts, custom styled WooCommerce pages and lots more settings. Integrating nicely with SiteOrigin's Page Builder, SiteOrigin's Widgets Bundle, WooCommerce and more great plugins, Vogue is scalable to build any site you need from a simple blog site to a portfolio site to a fully functional online WooCommerce store. Using SiteOrigin's drag and drop Page Builder you are able to build any detailed page layouts you may need, along with the page templates we offer. Vogue is the perfect theme for your next WordPress / WooCommerce project. Give it a go! and let us know which features you'l like added!
+Vogue is a very simple to use and quick to setup responsive multipurpose WordPress theme. Integrating nicely with SiteOrigin's Page Builder, SiteOrigin's Widgets Bundle, WooCommerce and more great plugins, Vogue is scalable to build any site you need from a simple blog site with 4 different blog layouts to a portfolio site to a fully functional online WooCommerce store. Using SiteOrigin's drag and drop Page Builder you are able to build any detailed page layouts you may need, along with the page templates we offer. Vogue is the perfect theme for your next WordPress / WooCommerce project. Vogue also includes custom styling for WooCommerce and BuddyPress and there's more coming. Give it a go! and let us know which features you'd like added!
 
 == License ==
 
@@ -67,6 +67,50 @@ View the theme settings under "Appearance" -> Customize.
 
 == Changelog ==
 
+#### 1.2.00
+* CSS fix for sidebar Pages & Custom Menu widgets styling
+* Fixed strings missing translation functions
+* Added feature changelog to Appearance -> About Vogue
+Premium: Added NEW Blog Layout - Masonry grid layout
+Premium: Added Setting for blog grid layout - Plain or Block styling
+---- Upgrading to premium will help build Vogue into a power theme.
+
+#### 1.1.9
+* WooCommerce style fix
+Premium: Added setting to set max width for logo
+
+#### 1.1.8
+* Change logo restriction to allow any size logo
+* Fix spelling errors on slider and upgrade page
+* Updated language.pot file
+Premium: Added social link for Behance
+
+#### 1.1.7
+* Fix search results styling & image display
+* Blog single page styling fixes
+* Added styling for sidebar Pages & Custom Menu widgets
+* Added hooks to footer social layout
+Premium: Settings to make blog list and archive pages full width
+Premium: Settings to make search results full width
+Premium: Settings to make blog single pages full width
+
+#### 1.1.6
+* Fix blog layout bug
+* Styling fixes/tweaks
+* Updated language.pot file
+Premium: Added setting - Select separate site title font
+Premium: Added setting - Set site title font size
+Premium: Added setting - Set site tagline font size
+Premium: Added setting - Set site title/tagline spacing
+
+#### 1.1.5
+* Styling fixes
+* Fix title center alignment bug
+
+#### 1.1.4
+* Added a setting to center align the page titles
+* Updated language.pot file
+
 #### 1.1.3
 * Style tweaks
 * Added 4 new blog layouts to choose from
@@ -74,7 +118,6 @@ View the theme settings under "Appearance" -> Customize.
 * Updated Font Awesome
 * Updated language.pot file
 Premium: Added 5 new social icons
-* Upgrading to premium will help build this theme into a power theme.
 
 #### 1.1.2
 * Added setting to remove header Address
