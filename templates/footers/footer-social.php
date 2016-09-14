@@ -50,8 +50,13 @@
 	<div class="site-footer-bottom-bar">
 	
 		<div class="site-container">
+
+			<?php do_action ( 'vogue_footer_bottombar_left' ); ?>
 			
 	        <?php wp_nav_menu( array( 'theme_location' => 'footer-bar','container' => false, 'fallback_cb' => false, 'depth'  => 1 ) ); ?>
+	        
+	        <?php do_action ( 'vogue_footer_bottombar_right' ); ?>
+
                 
 	    </div>
 		
@@ -59,3 +64,4 @@
 	</div>
 	
 <?php endif; ?>
+
