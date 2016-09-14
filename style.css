@@ -3,13 +3,11 @@ Theme Name: Vogue
 Theme URI: https://kairaweb.com/theme/vogue/
 Author: Kaira
 Author URI: https://kairaweb.com/
-<<<<<<< HEAD
-Description: Vogue is a very simple to use and quick to setup responsive multipurpose WordPress theme. Vogue offers 4 blog layouts, 2 footer layouts, custom styled WooCommerce pages and lots more settings. Integrating nicely with SiteOrigin's Page Builder, SiteOrigin's Widgets Bundle, WooCommerce and more great plugins, Vogue is scalable to build any site you need from a simple blog site to a portfolio site to a fully functional online WooCommerce store. Using SiteOrigin's drag and drop Page Builder you are able to build any detailed page layouts you may need, along with the page templates we offer. Vogue is the perfect theme for your next WordPress / WooCommerce project. Give it a go! and let us know which features you'l like added!
-Version: 1.1.3
-=======
+
 Description: Vogue is a very simple to use and quick to setup responsive multipurpose WordPress theme. Integrating nicely with SiteOrigin's Page Builder, SiteOrigin's Widgets Bundle, WooCommerce and more great plugins, Vogue is scalable to build any site you need from a simple blog site with 4 different blog layouts to a portfolio site to a fully functional online WooCommerce store. Using SiteOrigin's drag and drop Page Builder you are able to build any detailed page layouts you may need, along with the page templates we offer. Vogue is the perfect theme for your next WordPress / WooCommerce project. Vogue also includes custom styling for WooCommerce and BuddyPress and there's more coming. Give it a go! and let us know which features you'd like added!
+
 Version: 1.2.00
->>>>>>> f3970a401205564029e625d23ef2e1faf09f72d4
+
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: vogue
@@ -1588,11 +1586,13 @@ padding: 48px 0 40px 2%;}
 .widget.widget_nav_menu > div > ul > li ul.sub-menu {
 	padding: 3px 0 1px;
 }
+
 .widget.widget_pages > ul > li ul.children li,
 .widget.widget_nav_menu > div > ul > li ul.sub-menu li {
 	position: relative;
 	padding: 0 0 0 15px;
 }
+
 .widget.widget_pages > ul > li ul.children li:before,
 .widget.widget_nav_menu > div > ul > li ul.sub-menu li:before {
 	display: block;

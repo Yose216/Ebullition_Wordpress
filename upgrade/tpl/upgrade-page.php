@@ -29,7 +29,6 @@
             <div class="upgrade-help">
                 <p><?php printf( __( '<a href="https://kairaweb.com/support/install-the-premium-theme/" target="_blank">Get help here</a> on purchasing and installing Vogue Premium', 'vogue' ) ); ?></p>
             </div>
-            
 
             <div class="upgrade-changelog">
                 <h4><?php printf( __( 'Latest features added to Vogue Premium', 'vogue' ) ); ?></h4>

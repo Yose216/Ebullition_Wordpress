@@ -279,9 +279,11 @@ msgid "Blog Posts Layout"
 msgstr ""
 
 #: customizer/customizer-options.php:240
+
 msgid ""
 "This uses the \"Large Size\" image cut<br /><br />Grid Layout available in "
 "Premium"
+
 msgstr ""
 
 #: customizer/customizer-options.php:245
@@ -1080,6 +1082,7 @@ msgid ""
 "target='_blank'>email support</a> to sort out any queries you may have."
 msgstr ""
 
+
 #: upgrade/tpl/upgrade-page.php:92
 
 msgid ""
@@ -1102,6 +1105,7 @@ msgid ""
 "If you like our themes and/or found our support helpful, please let us know "
 "by <a href='%s' target='_blank'>giving us a review</a>."
 msgstr ""
+
 
 #: upgrade/tpl/upgrade-page.php:100
 msgid "Theme Ratings"
